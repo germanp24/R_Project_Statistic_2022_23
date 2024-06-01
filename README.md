@@ -8,6 +8,8 @@ The project consists of resolve some simple exercises using R language. The exer
 - Random variables
 - Discrete and continuous distributions
 
+The project obtained a score of **7.5/10**.
+
 ## Repository Structure:
 The repository structure is as follows:
 ```
